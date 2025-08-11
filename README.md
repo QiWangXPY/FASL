@@ -6,3 +6,4 @@ Ubicomp
 
 # Contact
 wechat: wq17381577895
+email: 1103167965@qq.com
