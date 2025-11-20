@@ -1,5 +1,5 @@
 # Semi-supervised Contrastive Learning for Reliable Sleep Staging with Small Labeled Photoplethysmography Data
-The code are public available after the paper acceptance.
+The code are publicly available after the paper acceptance.
 
 Paper acceptance by Ubicomp 2025.9.
 
