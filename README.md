@@ -3,7 +3,7 @@ The code are public available after the paper acceptance.
 
 Paper acceptance by Ubicomp 2025.9.
 
-Our dataset are public available at https://www.kaggle.com/datasets/wangqiqwq/sleep-labeled-100hz-ppg.
+Our dataset are publicly available at https://www.kaggle.com/datasets/wangqiqwq/sleep-labeled-100hz-ppg.
 
 # Contact
 wechat: wq17381577895
